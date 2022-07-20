@@ -18,19 +18,21 @@ export default function PageOne() {
         <p className={styles.description}>My Work Preferences</p>
         <div className={styles.grid}>
           <div className={styles.card}>
-            <p className={styles.description}>Me Like</p>
+            <p className={styles.description}>Me Like:</p>
             <ul>
-              <li>item</li>
-              <li>item</li>
-              <li>item</li>
+              <li>Hop on a Zoom call to do a product demo</li>
+              <li>Empathize with customers</li>
+              <li>Recommend to customers the Vercel plan best suited for them</li>
+              <li>Attend weekly enablement meetings to level up your product and sales knowledge</li>
             </ul>
           </div>
           <div className={styles.card}>
-            <p className={styles.description}>Me Dont Like</p>
+            <p className={styles.description}>Me Dont Like:</p>
             <ul>
-              <li>item</li>
-              <li>item</li>
-              <li>item</li>
+              <li>Create queries to look at a prospect's typical Vercel usage</li>
+              <li>Evaluate OSS sponsorship applications</li>
+              <li>Research and organize notes to ensure Account Executives are prepared for calls</li>
+              <li>Organize, Schedule and book meetings for Account Executives with prospects</li>
             </ul>
           </div>
         </div>

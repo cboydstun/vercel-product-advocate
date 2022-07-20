@@ -36,7 +36,7 @@ export default function PageOne() {
         </div>
       </main>
       <footer className={styles.footer}>
-        <Link href='/pLinkgeTwo'>Next Question</Link>
+        <Link href='/pageTwo'>Next Question</Link>
       </footer>
     </div>
   )

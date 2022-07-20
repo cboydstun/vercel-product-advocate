@@ -38,7 +38,7 @@ export default function PageFour() {
             <p className={styles.description}>Enterprise or Pro?</p>
             <p>Good morning Melissa,</p>
             <br />
-            <p>It is so nice to meet you and great to hear that you're looking to re-platform your site with the best React-based framework and hosting available from Vercel!</p>
+            <p>It is so nice to meet you and great to hear that you are looking to re-platform your site with the best React-based framework and hosting available from Vercel!</p>
             <p>We would love to help you evaluate your needs as soon as you have an opportunity! Please go ahead check out some of the features of Vercel Enterprise<a href="https://vercel.com/enterprise"> at this link</a>.</p>
             <br />
             <p>When would be the best time for us to meet to discuss your particular needs? I know you have got an important Q3 deadline to meet! We want to help you meet it!</p>

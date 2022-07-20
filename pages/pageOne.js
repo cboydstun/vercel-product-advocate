@@ -18,7 +18,7 @@ export default function PageOne() {
         <p className={styles.description}>My Work Preferences</p>
         <div className={styles.grid}>
           <div className={styles.card}>
-            <p className={styles.description}>Me Like:</p>
+            <p className={styles.description}>👍Top of List:</p>
             <ul>
               <li>Hop on a Zoom call to do a product demo</li>
               <li>Empathize with customers</li>
@@ -27,7 +27,7 @@ export default function PageOne() {
             </ul>
           </div>
           <div className={styles.card}>
-            <p className={styles.description}>Me Dont Like:</p>
+            <p className={styles.description}>👎Bottom of List:</p>
             <ul>
               <li>Create queries to look at a typical Vercel usage</li>
               <li>Evaluate OSS sponsorship applications</li>

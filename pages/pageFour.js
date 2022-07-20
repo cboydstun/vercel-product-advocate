@@ -18,7 +18,7 @@ export default function PageFour() {
         <p className={styles.description}>Practice Email</p>
         <div className={styles.grid}>
           <div className={styles.card}>
-            <p className={styles.description}>Do I need Enterprise?</p>
+            <p className={styles.description}>🚀Do I need Enterprise?</p>
             <p>Hi Joe,</p>
             <br />
             <p>Thanks for reaching out! It is wonderful to hear that you have a new site launching soon and even better to hear that you are
@@ -35,7 +35,7 @@ export default function PageFour() {
             <p><a href='www.schedulesometime.com'>Click Here to Schedule</a></p>
           </div>
           <div className={styles.card}>
-            <p className={styles.description}>Enterprise or Pro?</p>
+            <p className={styles.description}>😕Enterprise or Pro?</p>
             <p>Good morning Melissa,</p>
             <br />
             <p>It is so nice to meet you and great to hear that you are looking to re-platform your site with the best React-based framework and hosting available from Vercel!</p>

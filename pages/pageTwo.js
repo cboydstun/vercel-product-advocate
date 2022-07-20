@@ -18,11 +18,11 @@ export default function PageTwo() {
         <p className={styles.description}>Reflections on Past</p>
         <div className={styles.grid}>
           <div className={styles.card}>
-            <p className={styles.description}>What are you looking to learn or do more of?</p>
+            <p className={styles.description}>🔮What are you looking to learn or do more of?</p>
             <p>Acquire a real expertise with a certain technology so that I can empower others to make awesome web experiences.</p>
           </div>
           <div className={styles.card}>
-            <p className={styles.description}>Whats left the biggest positive impression on you?</p>
+            <p className={styles.description}>🔥Whats left the biggest positive impression on you?</p>
             <p>I got into full stack web development to be an internet entrepeneur. While reading about traction and venture capital and all the other topics I came across a Quora opinion piece.
             <br />
             It explained that founders can be distrusting and jaded people who are convinced that only they can solve a certain problem.

@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Link from 'next/link'
 import styles from '../styles/Home.module.css'
 
 export default function PageOne() {
@@ -11,13 +12,31 @@ export default function PageOne() {
       </Head>
 
       <main className={styles.main}>
-        <h1>
+        <h1 className={styles.title}>
           Question One
         </h1>
-        <p>My Work Preferences</p>
+        <p className={styles.description}>My Work Preferences</p>
+        <div className={styles.grid}>
+          <div className={styles.card}>
+            <p className={styles.description}>Me Like</p>
+            <ul>
+              <li>item</li>
+              <li>item</li>
+              <li>item</li>
+            </ul>
+          </div>
+          <div className={styles.card}>
+            <p className={styles.description}>Me Don't Like</p>
+            <ul>
+              <li>item</li>
+              <li>item</li>
+              <li>item</li>
+            </ul>
+          </div>
+        </div>
       </main>
-      <footer>
-        <a href='/pageTwo'>Next Question</a>
+      <footer className={styles.footer}>
+        <Link href='/pLinkgeTwo'>Next Question</Link>
       </footer>
     </div>
   )

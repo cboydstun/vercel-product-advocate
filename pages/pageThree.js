@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
+import Link from 'next/link'
 import styles from '../styles/Home.module.css'
 
 export default function PageThree() {
@@ -12,13 +13,14 @@ export default function PageThree() {
       </Head>
 
       <main className={styles.main}>
-        <h1>
+      <h1 className={styles.title}>
           Question Three
         </h1>
-        <p>Using Next.js</p>
+        <p className={styles.description}>Using Next.js</p>
+        <p>Temporary Redirect - BRB SOON!</p>
       </main>
-      <footer>
-        <a href='/pageFour'>Next Question</a>
+      <footer className={styles.footer}>
+        <Link href='/pageFour'>Next Question</Link>
       </footer>
     </div>
   )

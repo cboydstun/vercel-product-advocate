@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
+import Link from 'next/link'
 import styles from '../styles/Home.module.css'
 
 export default function PageFour() {
@@ -12,13 +13,13 @@ export default function PageFour() {
       </Head>
 
       <main className={styles.main}>
-        <h1>
+      <h1 className={styles.title}>
           Question Four
         </h1>
-        <p>Practice Email</p>
+        <p className={styles.description}>Practice Email</p>
       </main>
-      <footer>
-        <a href='/pageFive'>Next Question</a>
+      <footer className={styles.footer}>
+        <Link href='/pageFive'>Next Question</Link>
       </footer>
     </div>
   )

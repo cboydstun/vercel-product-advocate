@@ -3,8 +3,8 @@ module.exports = {
     return [
       {
         source: '/hello-vercel',
-        destination: ' https://vercel.com',
-        permanent: true,
+        destination: 'https://vercel.com',
+        permanent: false,
       },
     ]
   },

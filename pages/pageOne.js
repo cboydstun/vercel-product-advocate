@@ -29,7 +29,7 @@ export default function PageOne() {
           <div className={styles.card}>
             <p className={styles.description}>Me Dont Like:</p>
             <ul>
-              <li>Create queries to look at a prospect's typical Vercel usage</li>
+              <li>Create queries to look at a typical Vercel usage</li>
               <li>Evaluate OSS sponsorship applications</li>
               <li>Research and organize notes to ensure Account Executives are prepared for calls</li>
               <li>Organize, Schedule and book meetings for Account Executives with prospects</li>

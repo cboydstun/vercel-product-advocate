@@ -20,9 +20,9 @@ export default function PageFour() {
           <div className={styles.card}>
             <p className={styles.description}>Mom and Pop</p>
             <p>Small businesses are usually so focused on their niche that they are more or less uneducated in technical topics like web development.
-              In my experience, the first thing they ask for is an example and the second thing they ask for is the price of any website. That said, smaller "mom and pop" 
+              In my experience, the first thing they ask for is an example and the second thing they ask for is the price of any website. That said, smaller mom and pop 
               businesses respond really well to pre-made templates and white label customizations. It allows them to choose their website with all the features already included and
-              then limit their expenditure on web development services. Therefore, as an engineering manager, I'd be seeking a stack with a ton of community support and well developed
+              then limit their expenditure on web development services. Therefore, as an engineering manager, I would be seeking a stack with a ton of community support and well developed
               example projects to work with.
             </p>
           </div>
@@ -39,7 +39,7 @@ export default function PageFour() {
             <p>
               Large enterprises typically enjoy scientific management and labor specialization to make their business more efficient. An orgnization like this would have UI and UX designs 
               that would need to replicated with precise detail and a lot of effort. They would probably also employ front end developers as well as a seperate cadre of back end developers.
-              Next.js expedites development through it's opinionated architecture and provides a lot of the tools needed to build a robust application out of the box. 
+              Next.js expedites development through opinionated architecture that provides a lot of the tools needed to build a robust application out of the box. 
               Technically, the most attractive offering might be server side rendering allowing faster load times on a very complicated web development project with many different types of elements
               being presented simultaneously. 
             </p>

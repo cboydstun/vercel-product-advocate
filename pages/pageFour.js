@@ -21,7 +21,7 @@ export default function PageFour() {
             <p className={styles.description}>Do I need Enterprise?</p>
             <p>Hi Joe,</p>
             <br />
-            <p>Thanks for reaching out! It's great to hear that you have a new site launching soon and even better to hear that you're
+            <p>Thanks for reaching out! It is wonderful to hear that you have a new site launching soon and even better to hear that you are
               considering using the best technology available - Next.js to build and Vercel to host! You can find a link to more information
               about our enterprise features here:
               <a href="https://vercel.com/enterprise"> Vercel Enterprise</a>.</p>
@@ -38,10 +38,10 @@ export default function PageFour() {
             <p className={styles.description}>Enterprise or Pro?</p>
             <p>Good morning Melissa,</p>
             <br />
-            <p>It's so nice to meet you and wonderful to hear that you're looking to re-platform your site with the best React-based framework and hosting available from Vercel!</p>
+            <p>It is so nice to meet you and great to hear that you're looking to re-platform your site with the best React-based framework and hosting available from Vercel!</p>
             <p>We would love to help you evaluate your needs as soon as you have an opportunity! Please go ahead check out some of the features of Vercel Enterprise<a href="https://vercel.com/enterprise"> at this link</a>.</p>
             <br />
-            <p>When would be the best time for us to meet to discuss your particular needs? I know you've got an important Q3 deadline to meet!</p>
+            <p>When would be the best time for us to meet to discuss your particular needs? I know you have got an important Q3 deadline to meet! We want to help you meet it!</p>
             <br />
             <p>Please click the link below to schedule a call and I hope to hear from you soon!</p>
 

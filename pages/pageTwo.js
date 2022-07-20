@@ -29,7 +29,7 @@ export default function PageTwo() {
             <br />
             The article continued that any person capable, intelligent, and driven enough to learn the skills required to successfully launch a company has a much more comfortable career working for someone else.
             <br />
-            That's the situation I've found myself in and I'm loving it! 
+            That is the situation I have found myself in and I am loving it! 
             </p>
           </div>
         </div>

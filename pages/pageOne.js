@@ -26,7 +26,7 @@ export default function PageOne() {
             </ul>
           </div>
           <div className={styles.card}>
-            <p className={styles.description}>Me Don't Like</p>
+            <p className={styles.description}>Me Dont Like</p>
             <ul>
               <li>item</li>
               <li>item</li>

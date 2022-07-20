@@ -24,7 +24,7 @@ export default function PageTwo() {
           </div>
           <div className={styles.card}>
             <p className={styles.description}>Past Impression</p>
-            <p>What's left the biggest positive impression on you? </p>
+            <p>Whats left the biggest positive impression on you? </p>
           </div>
         </div>
       </main>
